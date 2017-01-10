@@ -1,0 +1,9 @@
+---
+# defaults file for apache
+
+wp_apache_hostname: 'wordpress_alex'
+wp_apache_alias: 'wordpress_alex'
+wp_apache_admin_email: 'admin@example.com'
+wp_apache_listen_port: 80
+wp_install_dir: '/var/www/wordpress_alex'
+
